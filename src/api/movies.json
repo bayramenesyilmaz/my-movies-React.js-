@@ -1,0 +1,60 @@
+{
+  "movies": [
+    {
+      "name": "The Matrix Reloaded",
+      "rating": "6.9",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBegA6V243J6HUnpcOILsRvBnGb.jpg",
+      "overview": "Six months after the events depicted in The Matrix, Neo has proved to be a good omen for the free humans, as more and more humans are being freed from the matrix and brought to Zion, the one and only stronghold of the Resistance. Neo himself has discovered his superpowers including super speed, ability to see the codes of the things inside the matrix and a certain degree of pre-cognition.",
+      "id": 2
+    },
+    {
+      "name": "Saw 3D",
+      "rating": "7.5 ",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHCZ6LjtmqWDfXXN28TlIC9OppK.jpg",
+      "overview": "SAW  legacy, a group of Jigsaw survivors gathers to seek the support of self-help guru and fellow survivor Bobby Dagen, a man whose own dark secrets unleash a new wave of terror.",
+      "id": 3
+    },
+    {
+      "name": "The Valet ",
+      "rating": "7.8",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q7FmdJHKMLIC4XgWfcFRIu2iVdL.jpg",
+      "overview": "Dünyaca ünlü film yıldızı Olivia, evli sevgilisi Vincent ile bir paparazzi fotoğrafını çekince bir PR felaketiyle karşı karşıya kalır. Çalışkan vale Antonio yanlışlıkla aynı fotoğrafta belirir ve Olivia'nın yeni erkek arkadaşı olarak bir örtbas olarak poz vermek üzere görevlendirilir. Olivia ile yaptığı bu oyun, Antonio'yu dikkatlerin üzerine çeker ve beklenmedik bir kaosa sürükler.",
+      "id": 5
+    },
+    {
+      "name": "The King's Man: Başlangıç",
+      "rating": "6.9",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xgX5yn3ubd73R2zMvzaidIjMKnQ.jpg",
+      "overview": "20. yüzyılın ilk yıllarında geçen film, Kingsman örgütünün kuruluşuna yol açan olayları konu ediniyor. Tarihin en kötü zorbaları ve suç dehalarından oluşan bir ekip, milyonlarca insanı yok etmek için bir savaş planlamak üzere toplanırken, sadece bir kişinin onları durdurmak için zamana karşı yarışması gerekmektedir.",
+      "id": 6
+    },
+    {
+      "name": "Ava",
+      "rating": "6.2",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cUI1PFsrQVJR3IZOpkfsOOOUhTO.jpg",
+      "overview": "Güneş şemsiyeleriyle bezeli bir sahilde çocuklar oynuyor. Suyun sesi, gökyüzünün maviliği ve güneşin sıcaklığı hâkim. Bütün bu kalabalığın ortasında uyuyan bir çocuk Ava. Henüz 13 yaşında. Ruhu uyanıyor ancak gözleri, bir hastalık nedeniyle kapanmak üzere. Genç kızlığına adım adım yaklaşırken, önünde bekleyen sorunlarla baş edebilmek için kendince yöntemler arıyor. Prömiyerini yaptığı Cannes Eleştirmenler Haftası bölümünden ödülle dönen Ava, genç bir kızın büyüme hikâyesini girift bir anlatı üzerinden kuruyor ve dört başı mamur bir sinema duygusu yaratıyor. Yönettiği ilk uzun metrajlı filminde Léa Mysius, oldukça kompleks, görsel olarak çok maharetli bir karakter portresi çiziyor.",
+      "id": 7
+    },
+    {
+      "name": "Mayın ",
+      "rating": "6.6",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zgttJvdAMo4AAOxjAOhCF1zO4tH.jpg",
+      "overview": "Amerikan Deniz Kuvvetleri'nin Kuzey Afrika'daki bir biriminde keskin nişancı olan Mike Stevens, başarısız olunan bir suikast girişiminin ardından arkadaşıyla birlikte olay yerinden kaçarken milyonlarca kara mayınıyla kaplı bir bölgeye girer. Arkadaşı dikkatsizliği sonucu ölürken Mike da bir mayına bastığını son anda fark eder. Ayağını kaldırması halinde havaya uçacaktır ve kendisine destek verebilecek en yakın birliğin gelmesine 52 saat vardır. Mike tüm yeteneklerini, fiziksel ve zihinsel dayanıklılığını ortaya koymak, çölün zorlu koşullarında ayakta kalmak zorundadır.",
+      "id": 8
+    },
+    {
+      "name": "Leyla ile Mecnun (2011)",
+      "rating": "8.3",
+      "imageURL": "https://www.themoviedb.org/t/p/original/epQhFbDRSCh3xvivJz4QhRtM8VB.jpg",
+      "overview": "Aynı gün, aynı hastanede dünyaya gelen iki bebek, yatak sayısının azlığından dolayı yan yana yatırılırlar. Ailelerinin \"doğar doğmaz birbirlerini buldular\" sözü üzerine beşik kertmesi yapılan bebekler, isimlerini de efsane aşıklar Leylâ ve Mecnun'dan alırlar.\n\nAradan 25 yıl geçer. Bir sabah ailesi Mecnun'a durumu anlatır ve Leyla'yı istemeye giderler. Mecnun başta bu durumdan rahatsızlık duysa da Leyla'yı görür görmez aşık olur. Onu etkilemek için ne yapacağını bilemeyen Mecnun, bir gece rüyasında aksakallı dedeyi görür. Aksakallı dedenin rüyalarından çıkıp Mecnun'la beraber yaşamaya başlamasıyla da işler karışır.",
+      "id": 9
+    },
+    {
+      "name": "Gibi",
+      "rating": "8.7",
+      "overview": "Yılmaz ve İlkkan, sürekli olarak birbiriyle didişmekte olan iki arkadaş. En büyük özellikleri ise sıradan hayatlarını altüst edecek bir şeyler yapmayı her zaman becermek. Küçücük olayları inanılmaz bir ustalıkla büyütüyor, işleri saç baş yolduracak seviyeye getiriyorlar. Onlar her gün yaşadığımız talihsizliklerin, tuhaf olayların ve çaresizliklerin cisimleşmiş hali.",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bD3OvTMLbVms0PNt2doDTEjTQqF.jpg",
+      "id": 10
+    }
+  ]
+}
